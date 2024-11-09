@@ -1,3 +1,6 @@
+Milestone assignment given instructions to complete javascript.
+
+
 # Escape Sequence Photo Gallery
 
 ## Contents
